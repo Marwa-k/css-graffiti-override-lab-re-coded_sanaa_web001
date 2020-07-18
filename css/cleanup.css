@@ -3,12 +3,15 @@
   display: none;
 }
 
-
 #wall #tag-2 {
   position: relative;
 }
-
 #tag-5
 {
     position: relative;
+}
+div#wall .parent #tag-5.slick {
+    background: url(../images/tag-5.png) repeat;
+  
+    display:none ;
 }
